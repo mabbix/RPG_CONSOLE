@@ -2,7 +2,7 @@ package entities;
 
 import java.util.Scanner;
 public final class Accounts {
-	
+	//teste1
 	
 	//Players manual add
 
